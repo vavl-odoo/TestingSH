@@ -10,4 +10,5 @@
     'data': [
         'data/scheduled_action.xml',  # Scheduled job (to be created later)
     ],
+    'installable': True,
 }
